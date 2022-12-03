@@ -1,2 +1,3 @@
 # Dino-Game
-The dinosaur game that appear when the when go offline.
+
+The dinosaur game that appear when browser go offline.
